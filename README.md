@@ -5,11 +5,11 @@ This project is my undergraduate thesis at ITENAS. The goal is to classify socia
 ## 🚀 Features
 - Preprocessing for Indonesian social media text
 - Negation handling methods (baseline, negation combine, negation prefix)
-- Fine-tuning IndoBERT and IndoBERTweet
+- Fine-tuning IndoBERT
 - Evaluation with Accuracy, Precision, Recall, F1-score
 
 ## 📊 Results
-- Best Model: IndoBERTweet with Negation Prefix
+- Best Model: IndoBERT with Negation Prefix
 - F1-Score: **0.9011**
 
 ## 📂 Repository Structure
