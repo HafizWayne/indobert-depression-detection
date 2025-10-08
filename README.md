@@ -27,7 +27,7 @@ Anda juga bisa mengunduh aplikasi "peluncur" ringan untuk Windows. Aplikasi ini 
 ## ✨ Fitur Utama
 
 * Pra-pemrosesan teks khusus untuk bahasa media sosial Indonesia.
-* Metode penanganan negasi (baseline, *negation combine*, *negation prefix*).
+* Metode penanganan negasi menggunakan negation combine.
 * Fine-tuning model IndoBERT untuk klasifikasi teks.
 * Evaluasi performa model menggunakan Akurasi, Presisi, Recall, dan F1-score.
 
