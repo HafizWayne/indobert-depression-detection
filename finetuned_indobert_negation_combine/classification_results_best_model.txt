@@ -1,0 +1,15 @@
+Hasil Evaluasi Akhir untuk Skenario: Negation Combine ('tidak_suka') (Model Terbaik)
+==============================
+                     precision    recall  f1-score   support
+
+  Tidak Terindikasi       0.92      0.91      0.92      1120
+Terindikasi Depresi       0.89      0.89      0.89       892
+
+           accuracy                           0.91      2012
+          macro avg       0.90      0.90      0.90      2012
+       weighted avg       0.91      0.91      0.91      2012
+
+==============================
+Confusion Matrix:
+[[1024   96]
+ [  94  798]]
