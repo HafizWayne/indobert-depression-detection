@@ -35,7 +35,7 @@ Anda juga bisa mengunduh aplikasi "peluncur" ringan untuk Windows. Aplikasi ini 
 
 ## 📊 Hasil
 
-* **Model Terbaik:** IndoBERT dengan metode *Negation Prefix*.
+* **Model Terbaik:** IndoBERT dengan metode *Negation Combine*.
 * **F1-Score:** 0.9011 pada set data pengujian.
 
 ---
