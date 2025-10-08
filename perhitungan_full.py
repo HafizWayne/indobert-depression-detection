@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import tempfile
 
 import streamlit as st
@@ -1369,7 +1368,6 @@ if __name__ == '__main__':
 
     # Sisa kode tetap sama
     sys.argv = ["streamlit", "run", sys.argv[0]]
-=======
 import tempfile
 
 import streamlit as st
@@ -2740,5 +2738,3 @@ if __name__ == '__main__':
 
     # Sisa kode tetap sama
     sys.argv = ["streamlit", "run", sys.argv[0]]
->>>>>>> 848cb1dc9e1ed308d073a3bc6991f20155343354
-    sys.exit(stcli.main())
